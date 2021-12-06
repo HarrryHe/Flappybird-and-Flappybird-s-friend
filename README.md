@@ -13,9 +13,12 @@ We also encountered some difficulties when we made this game. Such as debug, the
 1.	After we finished the game, when we run it, the character hit the sky then flash back and python killed the program automatically. But Jay fixed it later.
 2.	When character died, the drop speed of character is really slow. We changed the FPS to make it faster.
 3.	The pipe only can turn 180 degrees, but we can’t fix it by using flip () method. Every time we use flip () method there’s a bug that we don’t know how to fix it. 
-4.	Score add 22 points each time the character crosses the pipe. But we didn’t fix it comprehensively, there’s still a bug that when the character crosses the first pipe, the score didn’t plus one.
+4.	Score add 16 points each time the character crosses the pipe. But we didn’t fix it comprehensively, there’s still a bug that when the character crosses the first pipe, the score didn’t plus one.
 5.	When character died, pipe disappeared. We use a tomb image instead.
 
 Overall, the game is really successful so far, and we both are really enjoy of debugs and writing code using pycharm.
 
 Hope people are gonna enjoy our game. Thanks for watching!
+
+This is the tutoring video we watched and followed as a reference: https://www.bilibili.com/video/BV1Kz4y1m7PZ?from=search&seid=10800001603196796221&spm_id_from=333.337.0.0
+This is our video link url: https://www.youtube.com/watch?v=Arw3q1M5bZ8v
