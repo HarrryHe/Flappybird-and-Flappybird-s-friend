@@ -12,10 +12,9 @@ At first, we planned to make a game like Mario, but we were facing a lot of prob
 We also encountered some difficulties when we made this game. Such as debug, there’s some bugs that really annoyed:
 1.	After we finished the game, when we run it, the character hit the sky then flash back and python killed the program automatically. But Jay fixed it later.
 2.	When character died, the drop speed of character is really slow. We changed the FPS to make it faster.
-3.	The character also hit the air wall automatically. We fixed it.
-4.	The pipe only can turn 180 degrees, but we can’t fix it by using flip () method. Every time we use flip () method there’s a bug that we don’t know how to fix it. 
-5.	Score add 22 points each time the character crosses the pipe. But we didn’t fix it comprehensively, there’s still a bug that when the character crosses the first pipe, the score didn’t plus one.
-6.	When character died, pipe disappeared. We use a tomb image instead.
+3.	The pipe only can turn 180 degrees, but we can’t fix it by using flip () method. Every time we use flip () method there’s a bug that we don’t know how to fix it. 
+4.	Score add 22 points each time the character crosses the pipe. But we didn’t fix it comprehensively, there’s still a bug that when the character crosses the first pipe, the score didn’t plus one.
+5.	When character died, pipe disappeared. We use a tomb image instead.
 
 Overall, the game is really successful so far, and we both are really enjoy of debugs and writing code using pycharm.
 
