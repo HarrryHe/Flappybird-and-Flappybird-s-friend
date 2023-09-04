@@ -1,0 +1,40 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Game
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+So we basically gonna do a game like FlappyBirds and FlappyBirds' friends., and it should be computer game rather than on the smart phone.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+So my project will have couple more passes to let let the game character go. If the character make it through. He can finally met his girl and win the game. The speed to finish the game will be recorded.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+/
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Jie Huang lab 007
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+For my project, it's a game, so basically is to entertain people. I hope people can feel chill when they play this game and they can explore more fun in the game.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+I'll try my best to design the game characters with my teammate and to start my project before ddl.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I hope I can finish all of the work before ddl.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I need to acquire how to use Pygame, and I need to research how FlappyBird games work. My teammate will work on the in-game coding, error testing, and bug repairing. I will work on the menu coding, and photo editing, and pixel transformation.
+
